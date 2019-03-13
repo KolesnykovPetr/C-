@@ -1,0 +1,7 @@
+C:\Users\Petr\Desktop\C#\homeWork20190313\homeWork20190313\bin\Debug\homeWork20190313.exe.config
+C:\Users\Petr\Desktop\C#\homeWork20190313\homeWork20190313\bin\Debug\homeWork20190313.exe
+C:\Users\Petr\Desktop\C#\homeWork20190313\homeWork20190313\bin\Debug\homeWork20190313.pdb
+C:\Users\Petr\Desktop\C#\homeWork20190313\homeWork20190313\obj\Debug\homeWork20190313.csprojAssemblyReference.cache
+C:\Users\Petr\Desktop\C#\homeWork20190313\homeWork20190313\obj\Debug\homeWork20190313.csproj.CoreCompileInputs.cache
+C:\Users\Petr\Desktop\C#\homeWork20190313\homeWork20190313\obj\Debug\homeWork20190313.exe
+C:\Users\Petr\Desktop\C#\homeWork20190313\homeWork20190313\obj\Debug\homeWork20190313.pdb
